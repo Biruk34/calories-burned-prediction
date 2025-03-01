@@ -30,7 +30,7 @@ Clone the repository:
    ```bash
    git clone https://github.com/biruk34/calories-burned-prediction.git
 
-Results
+## Results
 After training the Random Forest Regressor model, the following performance metrics were evaluated:
 
 Mean Squared Error (MSE): 131.99
