@@ -23,14 +23,7 @@ The dataset contains the following columns:
 - Body_Temp: Body temperature during the workout.
 - Calories: Actual calories burned during the workout (target variable).
 
-Installation
-To run this project locally, follow these steps:
-
-Clone the repository:
-   ```bash
-   git clone https://github.com/biruk34/calories-burned-prediction.git
-
-## Results
+Results
 After training the Random Forest Regressor model, the following performance metrics were evaluated:
 
 Mean Squared Error (MSE): 131.99
@@ -45,3 +38,10 @@ Other Important Features: Heart rate, Age, Weight, etc.
 
 Conclusion
 This project demonstrates the use of machine learning techniques, specifically Random Forest regression, to predict the number of calories burned during a workout based on various personal and workout features. The model performed well with a high R-squared value, indicating strong predictive power.
+
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+   ```bash
+   git clone https://github.com/biruk34/calories-burned-prediction.git
